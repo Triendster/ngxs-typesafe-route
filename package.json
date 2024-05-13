@@ -1,25 +1,25 @@
 {
-  "name": "ngxs-typesafe-route",
-  "version": "1.0.0",
-  "description": "Typesafe routing using the NGXS Router Plugin.",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Triendster/ngxs-typesafe-router.git"
-  },
-  "keywords": [
-    "ngxs",
-    "router",
-    "typesafe",
-    "typescript"
-  ],
-  "author": "Tom Wanning",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Triendster/ngxs-typesafe-router/issues"
-  },
-  "homepage": "https://github.com/Triendster/ngxs-typesafe-router#readme"
+    "name": "ngxs-typesafe-route",
+    "version": "1.0.0",
+    "description": "Typesafe routing using the NGXS Router Plugin.",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Triendster/ngxs-typesafe-router.git"
+    },
+    "keywords": [
+        "ngxs",
+        "router",
+        "typesafe",
+        "typescript"
+    ],
+    "author": "Tom Wanning",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Triendster/ngxs-typesafe-router/issues"
+    },
+    "homepage": "https://github.com/Triendster/ngxs-typesafe-router#readme"
 }
